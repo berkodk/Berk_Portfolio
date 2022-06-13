@@ -1,4 +1,4 @@
-# `Berk-Portfolio`
+# Berk-Portfolio
 
 
 ## [Python - Projects](https://berdii.github.io/python-basics/)
